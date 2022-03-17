@@ -130,9 +130,7 @@
         .home {
             height: 100vh;
             width: 100%;
-            background: url("images/background.png") no-repeat;
-            background-size: cover;
-            background-position: center;
+            background-color: #F5F5F5;
             background-attachment: fixed;
             font-family: 'Ubuntu', sans-serif;
         }
@@ -413,7 +411,7 @@
         /* Contact Me CSS */
         
         .contact {
-            background: #F0F8FF;
+            background: #F5F5F5;
         }
         
         .contact .content {
